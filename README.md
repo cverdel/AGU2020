@@ -1,2 +1,2 @@
 # AGU2020
-Data for AGU2020 poster
+Data and some R scripts for AGU2020 poster
